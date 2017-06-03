@@ -14,7 +14,7 @@ The primary step is to read in the image and convert into to grayscale image. Th
 
 `gray = grayscale(image)`
 
-![](test_images_output/SolidWhiteCurve.JPG "Original_image"?raw=true)
+![](test_images_output/SolidWhiteCurve.JPG?raw=true "Original_image")
 
 ![alt text](C:\Users\meenunat\Desktop\Folder\car\Self_Driving\P1\test_images_output\SolidWhiteCurve_grayscale.JPG "grayscale_output")
 
