@@ -5,7 +5,7 @@ The primary goal of the project is to make a pipeline that finds lane lines on t
 
 ### 1.Reflection
 
-The pipeline is applied to every image and also applied to every frame in the video i.e a series of image. The pipeline was tested with two example videos "solidWhiteRight.mp4" and solidYellowLeft.mp4".The output of the example videos are "white.mp4" "yellow.mp4" respectively. 
+The pipeline is applied to every image and also applied to every frame in the video i.e a series of image. The pipeline was tested with two example videos "solidWhiteRight.mp4" and "solidYellowLeft.mp4".The output of the example videos are "solidWhiteRight_output.mp4" "solidYellowLeft_output.mp4" respectively. 
 
 The pipeline consists of **6** steps.
 
